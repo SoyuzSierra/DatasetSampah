@@ -24,7 +24,7 @@ Silahkan isi daftar jurnal diatas untuk efiensi dan akan kita tukar informasikan
 Berikut adalah link [Connected Paper](https://www.connectedpapers.com/) untuk melihat paper yang terkait dengan paper yg dicari, yah meskipun tidak terlalu lengkap. 
     
 
-![image](/assets/image/Screenshot%20(2058).png)
+![image](https://github.com/SoyuzSierra/assets/blob/main/images/Screenshot%20(2058).png)
 
 Link dataset lain:
 1. [MJU-Waste Dataset](https://drive.google.com/file/d/1o101UBJGeeMPpI-DSY6oh-tLk9AHXMny/view?usp=sharing)
